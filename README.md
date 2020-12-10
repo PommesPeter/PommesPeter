@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br></br>
 
-<image src="https://github-profile-trophy.vercel.app/?username=pommespeter"/>
+<image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula"/>
 <br></br>
 
 Currently Using Programming Language
