@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <image src="https://github-readme-stats.vercel.app/api/pin/?username=pommespeter&repo=Daily-Note-app&theme=tokyonight"></image></b>
 
 <br></br>
+
+<image src="https://github-profile-trophy.vercel.app/?username=pommespeter"/>
+<br></br>
+
 Currently Using Programming Language
 <p align="center"><image src="imgs/python.png"/></p>
 
