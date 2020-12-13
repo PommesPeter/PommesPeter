@@ -1,6 +1,6 @@
 ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
 
-Hi 👋, I am **Per**.<br>Welcome to my repositories. Hope you can enjoy everything here.</br><br></br>
+Hi 👋, I am **Peter**.<br>Welcome to my repositories. Hope you can enjoy everything here.</br><br></br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **ComputerVision**
