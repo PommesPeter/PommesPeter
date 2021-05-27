@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to contact me:**me@pommespeter.com**;
 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" width=400>
+    <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" width=480>
     </image>
 </b>
 <b>
