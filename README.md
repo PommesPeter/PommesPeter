@@ -2,10 +2,10 @@
 ![PommesPeter](https://visitor-badge.glitch.me/badge?page_id=PommesPeter.PommesPeter)
 
 <div align="center">
-### 😎 **About Me** 
+😎 **About Me**
 </div>
 
-Hi 👋, I am **Peter**.<br>Welcome to my repositories. Hope you can enjoy everything here.</br><br></br>
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am **Peter**.<br>Welcome to my repositories. Hope you can enjoy everything here.</br><br></br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **ComputerVision**
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula"/>
 <br></br>
 
-Currently Using Programming Language
+Currently Working on:
 <!-- <p align="center"><image src="imgs/python.png"/></p> -->
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/python-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%23007ACC.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white)     
 ![ROS](https://img.shields.io/badge/ROS%20-%233776AB.svg?&style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV%20-%233776AB.svg?&style=for-the-badge&logo=opencv&logoColor=white) ![PCL](https://img.shields.io/badge/PCL%20-%233776AB.svg?&style=for-the-badge&logo=&logoColor=white)  
