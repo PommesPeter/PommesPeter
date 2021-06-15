@@ -5,7 +5,7 @@
 😎 About Me
 </div>
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am **Peter**.<br>Welcome to my repositories. Hope you can enjoy everything here.</br><br></br>
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am **Peter**. I'm a **Sophomore** from Guilin Univerity of Electronic Technology pursuing Software Development | Software Engineering | Deep Learning Engineering | AI Algorithm Engineering.<br>Welcome to my repositories. Hope you can enjoy everything here.</br><br></br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **ComputerVision**
