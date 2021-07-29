@@ -1,3 +1,27 @@
+ 
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> PommesPeter
+ 
+ <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
+ 
+ ```python
+ import torch
+ import torch.nn as nn
+ class PommesPeter(nn.Module):
+    def __init__(self, in_channel, out_channel):
+        super(PommesPeter, self).__init__()
+        self.conv1 = nn.Conv2d(in_channel, out_channel, kernel_size=3, padding=1)
+        self.conv2 = nn.Conv2d(out_channel, out_channel, kernel_size=3, padding=1)
+        self.up1 = nn.UpsamplingBilinear2d(scale_factor=2)
+        self.up2 = nn.UpsamplingBilinear2d(scale_factor=2)
+     def forward(self, x):
+        x = conv1(x)
+        x = conv2(x)
+        study_content = self.up1(x)
+        infinity_conv = self.up2(x)
+        out = torch.cat(study, infinity_conv)
+        return out
+ ```
+ 
  ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
 ![PommesPeter](https://visitor-badge.glitch.me/badge?page_id=PommesPeter.PommesPeter)
 
