@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 📫 How to contact me:**me@pommespeter.com**;
 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" width=400 height=535 style="margin-top: -200px;">
+    <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" width=400 height=535>
     </image>
 </b>
 <b>
