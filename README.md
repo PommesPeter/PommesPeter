@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     </image>
 </b>
 <b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommespeter&layout=compact&theme=tokyonight&hide=html" width=400></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommespeter&layout=compact&theme=tokyonight&hide=html" width=400 height=500></image>
 </b>
 
 <b>
