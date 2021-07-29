@@ -18,7 +18,7 @@
         x = conv2(x)
         study_content = self.up1(x)
         infinity_conv = self.up2(x)
-        out = torch.cat(study, infinity_conv)
+        out = torch.cat([study, infinity_conv], 1)
         return out
  ```
  
