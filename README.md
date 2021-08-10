@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <br></br>
 
-<image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula"/>
+<image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula&column=7"/>
 <br></br>
 
 Currently Working on:
