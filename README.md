@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Busy and Busy**
 - 💬 Discuss anything with me, I am happy to share.
 - ✍🏻 My CSDN Blog: [PommesPeter](https://blog.csdn.net/weixin_45709330?spm=1000.2115.3001.5343);
-- 📫 How to contact me:**me@pommespeter.com**;
+- 📫 How to contact me:**me@pommespeter.space**;
 
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" width=400>
