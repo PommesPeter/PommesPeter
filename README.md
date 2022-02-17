@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - 📫 How to contact me:**me@pommespeter.space**;
 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" height=250>
+    <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" height=200>
     </image>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommespeter&layout=compact&theme=tokyonight&hide=html" height=250></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommespeter&layout=compact&theme=tokyonight&hide=html" height=200></image>
 </b>
 
 <br></br>
