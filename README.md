@@ -34,11 +34,6 @@ Here are some ideas to get you started:
     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommespeter&layout=compact&theme=tokyonight&hide=html" width=400></image>
 </b>
 
-<b>
-    <image src="https://github-readme-stats.vercel.app/api/pin/?username=pommespeter&repo=Daily-Note-app&theme=tokyonight">
-    </image>
-</b>
-
 <br></br>
 
 <image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula&column=8"/>
