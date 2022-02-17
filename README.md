@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" width=400>
     </image>
-</b>
-<br></br>
-<b>
     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommespeter&layout=compact&theme=tokyonight&hide=html" width=400></image>
 </b>
 
