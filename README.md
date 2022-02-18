@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br></br>
 
 <image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula&column=8"/>
-<br></br>
+<!-- <br></br> -->
 
 Currently Working on:
 <!-- <p align="center"><image src="imgs/python.png"/></p> -->
