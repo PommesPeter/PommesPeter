@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 </b>
  </div>
 
-<br></br>
-
 <image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula&column=8"/>
 <!-- <br></br> -->
 
