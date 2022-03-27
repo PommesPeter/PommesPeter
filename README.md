@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 - 📫 How to contact me:**me@pommespeter.space**;
 <div style="text-align: center;">
 <b>
-    <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" height=150>
+<!--     <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" height=150>
     </image>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommespeter&layout=compact&theme=tokyonight&hide=html" height=150></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommespeter&layout=compact&theme=tokyonight&hide=html" height=150></image> -->
+ <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=pommespeter&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommespeter&hide=Tex,c,javascript,html,Makefile&langs_count=8&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
 </b>
  </div>
 
