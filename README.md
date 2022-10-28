@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula&column=8"/>
 <!-- <br></br> -->
 
-Currently Working on:
+<!-- Currently Working on:
 <!-- <p align="center"><image src="imgs/python.png"/></p> -->
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/python-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%23007ACC.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white)     
 ![OpenCV](https://img.shields.io/badge/OpenCV%20-%233776AB.svg?&style=for-the-badge&logo=opencv&logoColor=white) ![PCL](https://img.shields.io/badge/PCL%20-%233776AB.svg?&style=for-the-badge&logo=&logoColor=white)  
@@ -52,5 +52,5 @@ Currently Working on:
 </b>
 <b>
 <image src="imgs/c++.png" width=175></image>
-</b> -->
+</b> --> -->
 
