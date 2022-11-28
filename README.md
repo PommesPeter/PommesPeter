@@ -18,13 +18,13 @@ programming_list = ["Python", "React", "PyTorch", "PaddlePaddle"]
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a **Undergraduate** majoring in Software Engineering from Guilin Univerity of Electronic Technology pursuing Software Development | Software Engineering | Deep Learning Engineering | AI Algorithm Engineering.<br>Welcome to my repositories. Hope you can enjoy everything here.</br><br></br>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **ComputerVision**
+- 🔭 I’m currently working on **Scene Graph Generation**
 - 🌱 I’m currently learning **DeepLearning with CNN**
 - 👯 I’m looking to collaborate on **Competition with Rank**
 - ⚡ Fun fact: **Busy and Busy**
 - 💬 Discuss anything with me, I am happy to share.
-- ✍🏻 My CSDN Blog: [PommesPeter](https://blog.csdn.net/weixin_45709330?spm=1000.2115.3001.5343);
 - 📫 How to contact me: **me@pommespeter.space**;
+
 <div style="text-align: center;">
 <b>
 <!--     <image src="https://github-readme-stats.vercel.app/api?username=pommespeter&show_icons=true&theme=tokyonight" height=150>
