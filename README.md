@@ -4,8 +4,8 @@
 <!--  <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
  
  ```python
-e = "Computer Vision with DeepLearning"
-programming_list = ["Python", "React", "PyTorch", "PaddlePaddle"]
+e = "Computer Vision with DeepLearning | Early-Bird Web Developer"
+programming_list = ["Python", "PyTorch", "PaddlePaddle", "React"]
  ```
  
 <!--  ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span> -->
