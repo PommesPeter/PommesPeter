@@ -19,9 +19,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Scene Graph Generation**
-- 🌱 I’m currently learning **DeepLearning with CNN**
+- 🌱 I’m currently learning **How to do research**
 - 👯 I’m looking to collaborate on **Competition with Rank**
-- ⚡ Fun fact: **Busy and Busy**
+- ⚡ Fun fact: **More Busy and Busy**
 - 💬 Discuss anything with me, I am happy to share.
 - 📫 How to contact me: **me@pommespeter.space**;
 
