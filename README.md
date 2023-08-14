@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 ![PommesPeter](./profile-3d-contrib/profile-season-animate.svg)
  
  </div>
- ![](https://count.getloli.com/get/@PommesPeter.github.readme)
+ 
+![](https://count.getloli.com/get/@PommesPeter.github.readme)
+</br>
 
 <!-- <image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula&column=8"/> -->
 <!-- <br></br> -->
