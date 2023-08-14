@@ -15,13 +15,13 @@ programming_list = ["Python", "PyTorch", "PaddlePaddle", "React"]
 😎 About Me
 </div>
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a **Undergraduate** majoring in Software Engineering from Guilin Univerity of Electronic Technology pursuing Software Development | Software Engineering | Deep Learning Engineering | AI Algorithm Engineering.<br>Welcome to my repositories. Hope you can enjoy everything here.</br><br></br>
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a Master's student at UESTC in the CFM lab. I obtained my Bachelor’s degree in Software Engineering from Guilin Univerity of Electronic Technology in 2023, also pursuing Software Development & Engineering | AI Compiler Development | AI Algorithm Engineering.<br>Welcome to my repositories. Hope you can enjoy everything here. </br><br></br>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Multi-Modal with Scene Graph Generation**
-- 🌱 I’m currently learning **How to do research**
-- 👯 I’m looking to collaborate on **Researching and Developments**
-- ⚡ Fun fact: **More Busy and Busy**
+- 🔭 I’m currently working on **Multi-Modal with Scene Graph Generation**.
+- 🌱 I’m currently learning **How to do research** and **How to code perfectly**.
+- 👯 I’m looking to collaborate on **Researching and Developments**.
+- ⚡ Fun fact: **More Busy and Busy**.
 - 💬 Discuss anything with me, I am happy to share.
 - 📫 How to contact me: **me@pommespeter.space**;
 
