@@ -39,6 +39,7 @@ Here are some ideas to get you started:
  </div>
 
 Counting of visitors to this page in this section started on Aug 14, 2023:
+
 ![](https://count.getloli.com/get/@PommesPeter.github.readme)
 </br>
 
