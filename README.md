@@ -9,7 +9,7 @@ programming_list = ["Python", "PyTorch", "PaddlePaddle", "React"]
  ```
  
 <!--  ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span> -->
-![PommesPeter](https://visitor-badge.glitch.me/badge?page_id=PommesPeter.PommesPeter)
+<!-- ![PommesPeter](https://visitor-badge.glitch.me/badge?page_id=PommesPeter.PommesPeter) -->
 
 <div align="center">
 😎 About Me
