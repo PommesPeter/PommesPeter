@@ -15,7 +15,7 @@ programming_list = ["Python", "PyTorch", "PaddlePaddle", "React"]
 😎 About Me
 </div>
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a Master's student at UESTC in the CFM lab. I obtained my Bachelor’s degree in Software Engineering from Guilin Univerity of Electronic Technology in 2023, also pursuing Software Development & Engineering | AI Compiler Development | AI Algorithm Engineering.<br>Welcome to my repositories. Hope you can enjoy everything here. </br><br></br>
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a Master's student at UESTC. I obtained my Bachelor’s degree in Software Engineering from Guilin Univerity of Electronic Technology in 2023, also pursuing Software Development & Engineering | AI Compiler Development | AI Algorithm Engineering.<br>Welcome to my repositories. Hope you can enjoy everything here. </br><br></br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Multi-Modal with Scene Graph Generation**.
