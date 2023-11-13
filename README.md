@@ -15,7 +15,9 @@ programming_list = ["Python", "PyTorch", "PaddlePaddle", "React"]
 😎 About Me
 </div>
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a Master's student at UESTC. I obtained my Bachelor’s degree in Software Engineering from Guilin Univerity of Electronic Technology in 2023, also pursuing Server-related Software and Hardware | OpenSource Software Development | Software Development & Engineering | AI Compiler Development | AI Algorithm Engineering.<br>Welcome to my repositories. I hope you can enjoy everything here. </br><br></br>
+> Welcome to my repositories. I hope you can enjoy everything here. </br>
+
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a Master's student at UESTC. I obtained my Bachelor’s degree in Software Engineering from Guilin Univerity of Electronic Technology in 2023, also pursuing Server-related Software and Hardware | OpenSource Software Development | Software Development & Engineering | AI Compiler Development | AI Algorithm Engineering.
 
 Here are some ideas to get you started:
 
