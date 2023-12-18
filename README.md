@@ -4,11 +4,13 @@
 <!--  <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
  
  ```python
-e = "Computer Vision with DeepLearning | Early-Bird Web Developer"
-programming_list = ["Python", "PyTorch", "PaddlePaddle", "React"]
+🧠 = ""
+intro = "Multimodal model with Large Language Model | Early-Bird Web Developer"
+programming_list = ["Python", "PyTorch", "PaddlePaddle", "React", "Huggingface Transformers"]
+🧠.join(intro).join(programming_list)
  ```
  
-<!--  ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span> -->
+<!--  ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white"></span> and Computer Vision<span style="color:white">👀</span> -->
 <!-- ![PommesPeter](https://visitor-badge.glitch.me/badge?page_id=PommesPeter.PommesPeter) -->
 
 <div align="center">
