@@ -22,8 +22,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Multi-Modal ~with Scene Graph Generation~**.
-- 🌱 I’m currently learning **How to do research** and **How to code perfectly**.
+- 🔭 I’m currently working on **Multimodal Model ~with Scene Graph Generation~ aka Large Visual Langugage Model (LVLM), Multimodal Large Language Model (MLLM)**.
+- 🌱 I’m currently learning **How to do research** and **How to code efficiently**.
 - 👯 I’m looking to collaborate on **Researching and Developments**.
 - ⚡ Fun fact: **Want to feed parrot and cat!**.
 - 💬 Discuss anything with me, I am happy to share.
