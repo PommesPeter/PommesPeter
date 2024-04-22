@@ -20,16 +20,15 @@ programming_list = ["Python", "PyTorch", "PaddlePaddle", "React", "Huggingface T
 > [!NOTE]
 > Welcome to my repositories. I hope you can enjoy everything here.
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a Master's student at University of Electronic Science and Technology of China (UESTC). I obtained my Bachelor’s degree in Software Engineering from Guilin Univerity of Electronic Technology (GUET) in 2023, also pursuing **AGI Engineering** ‖ **Server-related Software and Hardware** ‖ OpenSource Software Development ‖ Software Development & Engineering ‖ AI Compiler Development.
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Jasper**. I'm a Master's student at University of Electronic Science and Technology of China (UESTC). I obtained my Bachelor’s degree in Software Engineering from Guilin Univerity of Electronic Technology (GUET) in 2023, also pursuing **AGI Engineering** ‖ **Server-related Software and Hardware** ‖ OpenSource Software Development ‖ Software Development & Engineering.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Multimodal Model ~with Scene Graph Generation~ aka Large Visual Langugage Model (LVLM), Multimodal Large Language Model (MLLM)**.
+- 🔭 I’m currently working on **Multimodal Model with **Multimodal Large Language Model (MLLM)**.
 - 🌱 I’m currently learning **How to do research** and **How to code efficiently**.
-- 👯 I’m looking to collaborate on **Researching and Developments**.
 - ⚡ Fun fact: **Want to feed parrot and cat!**.
 - 💬 Discuss anything with me, I am happy to share.
-- 📫 How to contact me: **me@pommespeter.space**;
+- 📫 How to contact me: **me@sylin.host**;
 
 <div style="text-align: center;">
 <!-- <b> -->
