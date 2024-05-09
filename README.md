@@ -1,5 +1,5 @@
  
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Jasper Tse
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> PommesPeter
  
 <!--  <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
  
@@ -20,7 +20,7 @@ programming_list = ["Python", "PyTorch", "PaddlePaddle", "React", "Huggingface T
 > [!NOTE]
 > Welcome to my repositories. I hope you can enjoy everything here.
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Jasper**. I'm a Master's student at University of Electronic Science and Technology of China (UESTC). I obtained my Bachelor’s degree in Software Engineering from Guilin Univerity of Electronic Technology (GUET) in 2023, also pursuing **AGI Engineering** ‖ **Server-related Software and Hardware** ‖ OpenSource Software Development ‖ Software Development & Engineering.
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a Master's student at University of Electronic Science and Technology of China (UESTC). I obtained my Bachelor’s degree in Software Engineering from Guilin Univerity of Electronic Technology (GUET) in 2023, also pursuing **AGI Engineering** ‖ **Server-related Software and Hardware** ‖ OpenSource Software Development ‖ Software Development & Engineering.
 
 Here are some ideas to get you started:
 
