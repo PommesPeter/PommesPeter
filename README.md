@@ -5,8 +5,8 @@
  
  ```python
 🧠 = ""
-intro = "Multimodal model with Large Language Model | Early-Bird Web Developer"
-programming_list = ["Python", "PyTorch", "PaddlePaddle", "React", "Huggingface Transformers"]
+intro = "Multimodal model with Large Language Model and Diffusion Model | Early-Bird Web Developer"
+programming_list = ["Python", "PyTorch", "PaddlePaddle", "React", "Huggingface Diffusers/Transformers"]
 🧠.join(intro).join(programming_list)
  ```
  
