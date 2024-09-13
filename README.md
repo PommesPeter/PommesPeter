@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Multimodal Large Language Model (MLLM) and Multimodal Generative Model**.
 - 🌱 I’m currently learning **How to do research** and **How to code efficiently**.
 - ⚡ Fun fact: **Want to feed parrot and cat!**.
-- 💬 Discuss anything with me, WeChat ID: NoahCode0601
+- 💬 Feel free to discuss anything with me, WeChat ID: NoahCode0601
 - 📫 How to contact me: **me@pommespeter.space**; 
 
 <div style="text-align: center;">
