@@ -5,7 +5,7 @@
  
  ```python
 🧠 = ""
-intro = "Multimodal model with Large Language Model and Diffusion Model | Early-Bird Web Developer"
+intro = "Robot Learning | Early-Bird Web Developer"
 programming_list = ["Python", "PyTorch", "PaddlePaddle", "React", "Huggingface Diffusers/Transformers"]
 🧠.join(intro).join(programming_list)
  ```
@@ -24,7 +24,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Multimodal Large Language Model (MLLM) and Multimodal Generative Model**.
+- 🔭 I’m currently working on **Robot Learning**.
 - 🌱 I’m currently learning **How to do research** and **How to code efficiently**.
 - ⚡ Fun fact: **Want to feed parrot and cat!**.
 - 💬 Feel free to discuss anything with me, WeChat ID: NoahCode0601
