@@ -1,5 +1,5 @@
  
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> PommesPeter
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Pommes Peter
  
 <!--  <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
  
