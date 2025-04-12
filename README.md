@@ -15,7 +15,7 @@
 > Welcome to my repositories. I hope you can enjoy everything here.
 
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. Something I'm:
-- A second-year Master's student at the University of Electronic Science and Technology of China (UESTC).
+- A second-year Master student at the UESTC.
 - A Robot-enthusiastic researcher
 - A open-source developer
 - A Archlinux user
