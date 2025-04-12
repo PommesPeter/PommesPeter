@@ -3,19 +3,13 @@
  
 <!--  <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
  
- ```python
-🧠 = ""
-intro = "Robot Learning | Early-Bird Web Developer"
-programming_list = ["Python", "PyTorch", "PaddlePaddle", "React", "Huggingface Diffusers/Transformers"]
-🧠.join(intro).join(programming_list)
- ```
- 
 <!--  ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white"></span> and Computer Vision<span style="color:white">👀</span> -->
 <!-- ![PommesPeter](https://visitor-badge.glitch.me/badge?page_id=PommesPeter.PommesPeter) -->
 
-<div align="center">
+<!-- <div align="center">
 😎 About Me
 </div>
+-->
 
 > [!NOTE]
 > Welcome to my repositories. I hope you can enjoy everything here.
