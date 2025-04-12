@@ -20,15 +20,14 @@ programming_list = ["Python", "PyTorch", "PaddlePaddle", "React", "Huggingface D
 > [!NOTE]
 > Welcome to my repositories. I hope you can enjoy everything here.
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. I'm a Master's student at the University of Electronic Science and Technology of China (UESTC). I received my B.E. degree from Guilin Univerity of Electronic Technology (GUET) in 2023, majoring in Software Engineering, also pursuing **AGI Engineering** ‖ **High-Performance Computation Software and Hardware** ‖ OpenSource Software Development ‖ Software Development & Engineering. During my undergraduate year at GUET, I worked on [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) repo for open-source contribution. I finished the `i0/i0e`, `signbit`, and `polar` operator implementation, received the PaddlePaddle Developer Expert (a.k.a [PPDE](https://www.paddlepaddle.org.cn/ppde)) from [Paddle](https://www.paddlepaddle.org.cn). Before this, I often tinker with various Linux distributions (Arch Linux, Ubuntu, etc.), Software-based routers, and NAS, for creating a more comfortable and enjoyable life, driven by my love for System Engineering.
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I am **Peter**. Something I'm:
+- A Master's student at the University of Electronic Science and Technology of China (UESTC).
+- A Robot-enthusiastic researcher
+- A open-source developer
+- A Archlinux user
+- Love parrot and cat!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **Robot Learning**.
-- 🌱 I’m currently learning **How to do research** and **How to code efficiently**.
-- ⚡ Fun fact: **Want to feed parrot and cat!**.
-- 💬 Feel free to discuss anything with me, WeChat ID: NoahCode0601
-- 📫 How to contact me: **me@pommespeter.space**; 
+During my undergraduate year, I worked on [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) repo for open-source contribution. I finished the `i0/i0e`, `signbit`, and `polar` operator implementation, received the PaddlePaddle Developer Expert (a.k.a [PPDE](https://www.paddlepaddle.org.cn/ppde)) from [Paddle](https://www.paddlepaddle.org.cn). Before this, I often tinker with various Linux distributions (Arch Linux, Ubuntu, etc.), Software-based routers, and NAS, for creating a more comfortable and enjoyable life, driven by my love for System Engineering.
 
 <div style="text-align: center;">
 <!-- <b> -->
