@@ -16,6 +16,8 @@
 
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **Peter**. 
 
+I'm a second-year Master student in UESTC (University of Electronic Science and Technology of China). Before that, I graduated from GUET (Guilin University of Electronic Technology) with a bachelor's degree in Software Engineering.
+
 I'm currently focusing on `Robotics` and `Machine Learning` research, and investigating how to fully leverage multimodal information for VLA model. Also, I'm also very interested in studies focused on the generalization of VLA large models. 
 
 Previously, during my undergraduate year, I worked on [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) repo to enhance the functionality of its deeplearning framework. I finished the `i0/i0e`, `signbit`, and `polar` operators, and received the PaddlePaddle Developer Expert (a.k.a [PPDE](https://www.paddlepaddle.org.cn/ppde)) from [Paddle](https://www.paddlepaddle.org.cn). Moreover, I often tinker with various Linux distributions (Arch Linux, Ubuntu, etc.), Software-based routers, and NAS, for creating a more comfortable and enjoyable life, driven by my love for System Engineering.
