@@ -16,7 +16,7 @@
 
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **Peter**. 
 
-I'm a second-year Master student in UESTC (University of Electronic Science and Technology of China). Before that, I graduated from GUET (Guilin University of Electronic Technology) with a bachelor's degree in Software Engineering.
+I'm a second-year Master student in UESTC (University of Electronic Science and Technology of China). Before that, I recived my Bachelor's degree in Software Engineering from GUET (Guilin University of Electronic Technology).
 
 I'm currently focusing on `Robotics` and `Machine Learning` research, and investigating *How to incorporate richer context and memory* could make the VLA model becoming to a general GRP (Generalist Robot Policy). I am passionate about researching on the Generlist Robot Policy using `Vison-Language-Action` Architecture.
 
