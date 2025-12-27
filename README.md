@@ -36,7 +36,7 @@ Previously, I was research intern at [Shanghai AI Lab](https://www.shlab.org.cn/
 
 Counting of visitors to this page in this section started on Aug 14, 2023:
 
-![](https://count.getloli.com/get/@PommesPeter.github.readme)
+![](https://count.getloli.com/@PommesPeter.github.readme?theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 </br>
 
 <!-- <image src="https://github-profile-trophy.vercel.app/?username=pommespeter&theme=dracula&column=8"/> -->
