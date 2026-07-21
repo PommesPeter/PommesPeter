@@ -14,13 +14,11 @@
 > [!NOTE]
 > Welcome to my repositories. I hope you can enjoy everything here.
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **Peter**. 
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **Peter**. I'm a first-year Ph.D student at SJTU (Shanghai Jiao Tong University), advised by [Hang Zhao](https://hangzhaomit.github.io/). I conduct research in robotics and machine learning, and investigating *How to incorporate richer context and memory* could make the VLA model to be GRP (Generalist Robot Policy)
 
-I'm a third-year Master student at UESTC (University of Electronic Science and Technology of China). Before that, I received my Bachelor's degree in Software Engineering from GUET (Guilin University of Electronic Technology).
+Previously, I was a research intern at [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by Dr. [Peng Gao](https://gaopengcuhk.github.io/) and Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/), and finished [Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X). During my undergraduate year, I worked on [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) to enhance the functionality of deeplearning framework. I finished the `i0/i0e`, `signbit`, and `polar` operators, and received the PaddlePaddle Developer Expert (a.k.a [PPDE](https://www.paddlepaddle.org.cn/ppde)) from [Paddle](https://www.paddlepaddle.org.cn). Moreover, I often tinker with various Linux distributions (ArchLinux, Ubuntu, etc., i.e. mostly use ArchLinux), Software-based routers, and NAS, for creating a more comfortable and enjoyable life, driven by my love for ML+System Engineering.
 
-I'm currently focusing on `Robotics` and `Machine Learning` research, and investigating *How to incorporate richer context and memory* could make the VLA model to be GRP (Generalist Robot Policy). I am passionate about researching on the GRP with `Vison-Language-Action` Architecture.
-
-Previously, I was research intern at [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by Dr. [Peng Gao](https://gaopengcuhk.github.io/) and Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/), and finished [Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X). During my undergraduate year, I worked on [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) to enhance the functionality of deeplearning framework. I finished the `i0/i0e`, `signbit`, and `polar` operators, and received the PaddlePaddle Developer Expert (a.k.a [PPDE](https://www.paddlepaddle.org.cn/ppde)) from [Paddle](https://www.paddlepaddle.org.cn). Moreover, I often tinker with various Linux distributions (ArchLinux, Ubuntu, etc., i.e. mostly use ArchLinux), Software-based routers, and NAS, for creating a more comfortable and enjoyable life, driven by my love for ML+System Engineering.
+Before my Ph.D studies, I received my Master's degree at UESTC (University of Electronic Science and Technology of China) and Bachelor's degree in Software Engineering from GUET (Guilin University of Electronic Technology).
 
 <div style="text-align: center;">
 <!-- <b> -->
