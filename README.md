@@ -18,7 +18,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 Previously, I was a research intern at [Shanghai AI Lab](https://www.shlab.org.cn/), advised by Dr. [Peng Gao](https://gaopengcuhk.github.io/) and Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/), where I worked on Lumina-T2X. I also interned at [Galaxea AI](https://galaxea-ai.com/) and had fortunately working with Prof. [Hang Zhao](https://hangzhaomit.github.io/). Earlier, I ported the scientific computing operators `i0/i0e`, `polygamma`, and `signbit` to [PaddlePaddle](https://github.com/PaddlePaddle/Paddle/), and was recognized as a PaddlePaddle Developer Expert ([PPDE](https://www.paddlepaddle.org.cn/ppde)). Outside research, I’m a geek who enjoys tinkering with operating systems, networks, NAS, and other tech.
 
-Before my Ph.D. studies, I received my Master's degree at UESTC (University of Electronic Science and Technology of China) and my Bachelor's degree in Software Engineering from GUET (Guilin University of Electronic Technology).
+Before my Ph.D. studies, I received my Master's degree at UESTC (University of Electronic Science and Technology of China), advised by [Jingkuan Song](https://jingkuansong.github.io/) and [Lianli Gao](https://lianligao.github.io/) and my Bachelor's degree in Software Engineering from GUET (Guilin University of Electronic Technology).
 
 <div style="text-align: center;">
 <!-- <b> -->
